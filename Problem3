@@ -1,0 +1,26 @@
+Quiz 3: Array Manipulation (Hands-On)
+Topic:  Arrays
+Type: Hands-On Coding
+Problem: Jeepney Route - The Return Trip
+1.	Create a string array and populate it with 7 jeepney stops for a "Papunta" (going) route.
+2.	Display the original "Papunta" route.
+3.	Write your own logic (using a loop) to reverse the order of the elements in the array. Do not use the built-in Array.Reverse() method.
+4.	Display the new, reversed "Pabalik" (return) route.
+Sample output:
+--- PAPUNTA ---
+Monumento
+5th Avenue
+R. Papa
+Abad Santos
+Tayuman
+Blumentritt
+Carriedo
+
+--- PABALIK ---
+Carriedo
+Blumentritt
+Tayuman
+Abad Santos
+R. Papa
+5th Avenue
+Monumento
