@@ -1,0 +1,27 @@
+Quiz 2: Array Updating (Hands-On)
+Topic: Arrays
+Type: Hands-On Coding
+Problem: Sari-Sari Store Inventory
+1.	Create a string array to hold 5 product names.
+2.	Populate the array with 5 items (e.g., "Coke Sakto", "Pancit Canton", etc.).
+3.	Display the inventory to the user, numbered 1-5.
+4.	Ask the user which item number to "restock" and get the new product name.
+5.	Update the array with the new product name.
+6.	Display the updated inventory.
+Sample output:
+Current Sari-Sari Store Inventory:
+1: Coke Sakto
+2: Lucky Me! Pancit Canton
+3: Piattos
+4: Silver Swan Suka
+5: Kopiko Brown
+
+Which item number do you want to restock? 4
+What is the new product name? Datu Puti Toyo
+
+New Sari-Sari Store Inventory:
+1: Coke Sakto
+2: Lucky Me! Pancit Canton
+3: Piattos
+4: Datu Puti Toyo
+5: Kopiko Brown
