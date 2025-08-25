@@ -1,0 +1,19 @@
+Topic: Arrays & User Input
+Type: Hands-On Coding
+Problem: Record Your Top 5 Favorite Foods
+1.	Create a string array with a size of 5.
+2.	Ask the user to enter their favorite food for each of the 5 slots and store it in the array.
+3.	Display all the foods that were entered.
+4.	Bonus: Using a loop to get user input and using a loop to display the output will earn additional points.
+Sample output:
+Enter food #1: Adobo
+Enter food #2: Sinigang
+Enter food #3: Lechon
+Enter food #4: Kare-Kare
+Enter food #5: Bicol Express
+Your favorite foods are:
+Adobo
+Sinigang
+Lechon
+Kare-Kare
+Bicol Express
